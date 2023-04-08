@@ -1,5 +1,5 @@
 # Mycroft-project-salama4ai
-# **This project shows the installation and the use mycroft on Google-Colab**
+# **This project shows the installation and the use case of mycroft on Google-Colab**
 
 ####The Wake Word Listener's job is to continually listen to sounds and speech around the Device, and activate when the sounds or speech match a Wake Word. Mycroft provides an open source Wake Word Listener called Precise. which i will use in this project to train a model to wake up when it hears certain word.
  
